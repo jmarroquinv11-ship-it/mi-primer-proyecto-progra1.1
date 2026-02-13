@@ -1,0 +1,3 @@
+i. Aprend¡ que el flujo de trabajo con Git y GitHub consiste en crear repositorios, clonar, hacer commits, crear ramas y fusionarlas. Esto permite mantener un historial claro de cambios. 
+ii. Trabaj‚ individualmente, por lo que no tuve conflictos de colaboraci¢n. Sin embargo, entend¡ c¢mo se resolver¡an si ocurrieran. 
+iii. Las ventajas de usar Git en proyectos de programaci¢n son: control de versiones, trabajo colaborativo, facilidad para revertir errores y organizaci¢n profesional de los proyectos. 
